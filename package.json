@@ -1,8 +1,20 @@
 {
     "name": "correia-vscode-theme",
-    "displayName": "correia-vscode-theme",
+    "displayName": "Correia Theme",
     "description": "Correia VsCode Theme based on One Dark Pro",
     "version": "0.0.1",
+    "publisher": "CorreiaVsCodeTheme",
+    "keywords": [
+        "theme",
+        "correia",
+        "dark",
+        "green",
+        "correia dark"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lucianocorreia/correia-vscode-theme"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
