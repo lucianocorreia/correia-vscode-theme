@@ -1,0 +1,21 @@
+{
+    "name": "correia-vscode-theme",
+    "displayName": "correia-vscode-theme",
+    "description": "Correia VsCode Theme based on One Dark Pro",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Correia Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Correia Theme-color-theme.json"
+            }
+        ]
+    }
+}
