@@ -794,7 +794,7 @@
             "name": "Attribute class",
             "scope": "entity.other.attribute-name.class.css",
             "settings": {
-                "fontStyle": "normal",
+                "fontStyle": "",
                 "foreground": "#d19a66"
             }
         },
