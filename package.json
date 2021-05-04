@@ -2,7 +2,7 @@
     "name": "correia-vscode-theme",
     "displayName": "Correia Theme",
     "description": "Correia VsCode Theme based on One Dark Pro",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "CorreiaVsCodeTheme",
     "icon": "images/logo_correia.png",
     "keywords": [
