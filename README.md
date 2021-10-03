@@ -1,6 +1,4 @@
-# Dark VSCode Theme based on One Dark Pro
-
-![Alt text](/images/img01.png?raw=true)
+# Dark VSCode Theme based on Github and Gruvbox
 
 &copy; Luciano Correia (https://github.com/lucianocorreia/correia-vscode-theme)
 
